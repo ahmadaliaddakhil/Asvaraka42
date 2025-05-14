@@ -50,7 +50,7 @@ export default function NikeFooter() {
             <span>© 2025 Asvaraka42</span>
           </div>
           <div className="legal-links">
-            <a href="">
+            <a href="https://saweria.co/ahmadaliv1">
               <u>Buy me Coffe</u>
             </a>
           </div>
