@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌕 Asvaraka42 - Angkatan 42 SMAN 1 Lamongan
 
-## Getting Started
+Selamat datang di repositori resmi untuk situs web **Asvaraka42**, platform digital yang didedikasikan untuk Angkatan 42 SMAN 1 Lamongan. Situs ini bertujuan untuk mendokumentasikan perjalanan, kenangan, dan semangat kebersamaan yang telah terjalin selama masa SMA.
 
-First, run the development server:
+## 🔗 Tautan Situs Web
+
+🌐 [https://asvaraka42.vercel.app/](https://asvaraka42.vercel.app/)
+
+## 📌 Tentang Asvaraka
+
+**Asvaraka** adalah akronim dari bahasa Sanskerta: _Lokaḥ Svapnam Kārayati Kathām Racayati_, yang berarti _Dunia Menempa Asa dan Mencipta Kisah_. Filosofi ini mencerminkan bagaimana masa SMA menjadi ruang pembentukan karakter, tempat di mana harapan tumbuh, mimpi dibentuk, dan kisah-kisah bermakna tercipta.
+
+## 🖥️ Catatan Penting
+
+> ⚠️ **Situs ini dioptimalkan untuk tampilan desktop.**
+>
+> Untuk pengalaman terbaik, silakan akses situs menggunakan komputer atau laptop.
+
+## ✨ Fitur Utama
+
+- 📖 **Tentang Asvaraka**: Penjelasan mendalam mengenai makna dan filosofi nama Asvaraka.
+- 🎬 **Trailer Film**: Menampilkan trailer film pertama angkatan 2025.
+- 🏫 **Daftar Kelas**: Informasi tentang kelas 12-1 hingga 12-12, masing-masing dengan identitas unik.
+- 📘 **Buku Kenangan Digital**: Bagian "Yearbook" yang akan segera hadir.
+- 📱 **Kontak & Media Sosial**: Tautan ke Instagram, YouTube, dan situs resmi SMAN 1 Lamongan.
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Hosting**: [Vercel](https://vercel.com/)
+
+## 📂 Struktur Proyek (Opsional)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+├── public/
+│   └── assets/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── styles/
+├── .gitignore
+├── README.md
+├── package.json
+└── vercel.json
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
