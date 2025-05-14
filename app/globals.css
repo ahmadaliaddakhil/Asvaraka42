@@ -285,7 +285,7 @@ a {
   color: whitesmoke;
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   font-size: 2.25rem;
   padding-left: 1rem;
   gap: 2px;
