@@ -26,14 +26,14 @@ const athlets = [
   {
     name: "Asvaraka 42 ",
     image: "/athlets/asvaraka-pic.jpg",
-    background: "/athlets/bg-asvaraka2.jpg",
+    background: "/athlets/bg-asvaraka2.JPG",
     athlet: "Show Your Quality",
     aspectRatio: "4/5",
   },
   {
     name: "SMAN 1 Lamongan",
     image: "/athlets/smasa-pic.jpg",
-    background: "/athlets/bg-asvaraka.jpg",
+    background: "/athlets/bg-asvaraka.JPG",
     athlet: "The Best School",
     aspectRatio: "3/4",
   },
